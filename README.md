@@ -1,7 +1,9 @@
 Capstone Project for CAP5510 - Bioinformatics
+
 Comparison, Evaluation, and Analysis of Historical and Modern Secondary Structure Prediction Methods
 
 This repository contains code and data used to complete this project. It is not a completely automated process, as many steps were done by hand.
+
 Notable files are described below:
 
 process_raw_data.py - Used to convert raw DSSP data into strings that could be entered in to web servers
